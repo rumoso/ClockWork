@@ -18,3 +18,13 @@ C:\Users\ruben\OneDrive\Documentos\repos\ClockWork\ClockWork\obj\Debug\ClockWork
 C:\Users\ruben\OneDrive\Documentos\repos\ClockWork\ClockWork\obj\Debug\ClockWork.exe
 C:\Users\ruben\OneDrive\Documentos\repos\ClockWork\ClockWork\obj\Debug\ClockWork.pdb
 C:\Users\ruben\OneDrive\Documentos\repos\ClockWork\ClockWork\bin\Debug\ClockWork.pdb
+C:\GitHub\7.- ClockWork\ClockWork\bin\Debug\ClockWork.exe.config
+C:\GitHub\7.- ClockWork\ClockWork\bin\Debug\ClockWork.exe
+C:\GitHub\7.- ClockWork\ClockWork\bin\Debug\ClockWork.pdb
+C:\GitHub\7.- ClockWork\ClockWork\obj\Debug\ClockWork.csproj.AssemblyReference.cache
+C:\GitHub\7.- ClockWork\ClockWork\obj\Debug\ClockWork.Form1.resources
+C:\GitHub\7.- ClockWork\ClockWork\obj\Debug\ClockWork.Properties.Resources.resources
+C:\GitHub\7.- ClockWork\ClockWork\obj\Debug\ClockWork.csproj.GenerateResource.cache
+C:\GitHub\7.- ClockWork\ClockWork\obj\Debug\ClockWork.csproj.CoreCompileInputs.cache
+C:\GitHub\7.- ClockWork\ClockWork\obj\Debug\ClockWork.exe
+C:\GitHub\7.- ClockWork\ClockWork\obj\Debug\ClockWork.pdb
